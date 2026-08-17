@@ -16,18 +16,27 @@
 
 <br/><br/>
 
+## Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/aaron-kunnel-b93974245/">
+  <img src="https://img.shields.io/badge/LinkedIn-Aaron%20Kunnel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
 <a href="https://github.com/aaronkunnel">
-  <img src="https://img.shields.io/badge/Portfolio-GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-aaronkunnel-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://in.linkedin.com/in/aaron-kunnel-b93974245">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<a href="https://github.com/aaronkunnel/aaronkunnel">
+  <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
 </a>
-<a href="mailto:aaronjohn2507@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/aaronkunnel">
-  <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+
+</div>
 
 <br/><br/>
 
