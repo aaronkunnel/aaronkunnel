@@ -282,40 +282,6 @@ Focused on developing practical software applications throughout undergraduate a
 
 ---
 
-## Current Focus
-
-```yaml
-Learning:
-  - Advanced Python development
-  - Artificial Intelligence and Machine Learning
-  - Natural Language Processing
-  - Software engineering practices
-  - Scalable application architecture
-
-Building:
-  - AI-powered applications
-  - NLP and text-processing solutions
-  - Real-time intelligent applications
-  - Practical developer-focused projects
-
-Exploring:
-  - Full-stack development
-  - Product engineering
-  - Applied AI/ML
-  - Open-source development
-  - Modern software architecture
-
-Open To:
-  - Software Engineering opportunities
-  - AI/ML opportunities
-  - NLP projects
-  - Full-stack development
-  - Collaborative engineering projects
-  - Open-source contributions
-````
-
----
-
 ## Connect
 
 <div align="center">
@@ -339,12 +305,6 @@ Open To:
 </div>
 
 ---
-
-## Footer
-
-<div align="center">
-
-> **Build with purpose. Engineer with discipline. Ship with impact.**
 
 <br/>
 
