@@ -303,12 +303,3 @@ Focused on developing practical software applications throughout undergraduate a
 </a>
 
 </div>
-
----
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4C1D95,100:0D0B1F&height=120&section=footer&animation=fadeIn"/>
-
-</div>
-```
