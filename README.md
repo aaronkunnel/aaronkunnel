@@ -246,58 +246,6 @@ Focused on developing practical software applications throughout undergraduate a
 
 ---
 
-## Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-Certification details are not listed in the provided profile information.
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-Certification details are not listed in the provided profile information.
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications-6D28D9?style=for-the-badge&labelColor=111827"/>
-
-Certification details are not listed in the provided profile information.
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-Certification details are not listed in the provided profile information.
-
----
-
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=111827"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
@@ -309,16 +257,6 @@ Certification details are not listed in the provided profile information.
 <br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronkunnel&hide_border=true&background=0D0B1F&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aaronkunnel&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
 
 </div>
 
