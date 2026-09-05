@@ -264,9 +264,7 @@ Focused on developing practical software applications throughout undergraduate a
 
 ## Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aaronkunnel&bg_color=0D0B1F&color=A78BFA&line=7C3AED&point=C4B5FD&area=true&hide_border=true&custom_title=Aaron%20Kunnel%20—%20Contribution%20Activity"/>
+[![Aaron's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aaronkunnel&theme=react-dark)](https://github.com/aaronkunnel)
 
 </div>
 
